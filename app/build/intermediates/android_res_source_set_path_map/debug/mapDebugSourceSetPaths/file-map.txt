@@ -1,0 +1,8 @@
+com.example.consultaceppermissoes.app-pngs-0 /Users/teste/Downloads/atividade-permissoes-mobile-viacep-v2/app/build/generated/res/pngs/debug
+com.example.consultaceppermissoes.app-updated_navigation_xml-1 /Users/teste/Downloads/atividade-permissoes-mobile-viacep-v2/app/build/generated/updated_navigation_xml/debug
+com.example.consultaceppermissoes.app-packageDebugResources-2 /Users/teste/Downloads/atividade-permissoes-mobile-viacep-v2/app/build/intermediates/incremental/debug/packageDebugResources/merged.dir
+com.example.consultaceppermissoes.app-packageDebugResources-3 /Users/teste/Downloads/atividade-permissoes-mobile-viacep-v2/app/build/intermediates/incremental/debug/packageDebugResources/stripped.dir
+com.example.consultaceppermissoes.app-debug-4 /Users/teste/Downloads/atividade-permissoes-mobile-viacep-v2/app/build/intermediates/merged_res/debug/mergeDebugResources
+com.example.consultaceppermissoes.app-debug-5 /Users/teste/Downloads/atividade-permissoes-mobile-viacep-v2/app/src/debug/res
+com.example.consultaceppermissoes.app-main-6 /Users/teste/Downloads/atividade-permissoes-mobile-viacep-v2/app/src/main/res
+gradleHome-0 /Users/teste/.gradle

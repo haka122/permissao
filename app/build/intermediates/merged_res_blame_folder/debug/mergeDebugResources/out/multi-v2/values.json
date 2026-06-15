@@ -1,0 +1,62 @@
+{
+    "logs": [
+        {
+            "outputFile": "com.example.consultaceppermissoes.app-mergeDebugResources-1:/values/values.xml",
+            "map": [
+                {
+                    "source": "/Users/teste/Downloads/atividade-permissoes-mobile-viacep-v2/app/src/main/res/values/styles.xml",
+                    "from": {
+                        "startLines": "10,2",
+                        "startColumns": "4,4",
+                        "startOffsets": "482,55",
+                        "endLines": "16,8",
+                        "endColumns": "12,12",
+                        "endOffsets": "821,476"
+                    },
+                    "to": {
+                        "startLines": "29,36",
+                        "startColumns": "4,4",
+                        "startOffsets": "1817,2161",
+                        "endLines": "35,42",
+                        "endColumns": "12,12",
+                        "endOffsets": "2156,2582"
+                    }
+                },
+                {
+                    "source": "/Users/teste/Downloads/atividade-permissoes-mobile-viacep-v2/app/src/main/res/values/colors.xml",
+                    "from": {
+                        "startLines": "2,11,13,12,4,5,9,10,3,8,6,7",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,451,544,491,142,184,368,409,100,324,228,275",
+                        "endColumns": "44,39,51,52,41,43,40,41,41,43,46,48",
+                        "endOffsets": "95,486,591,539,179,223,404,446,137,363,270,319"
+                    },
+                    "to": {
+                        "startLines": "2,3,4,5,6,7,8,9,10,11,12,13",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,100,140,192,245,287,331,372,414,456,500,547",
+                        "endColumns": "44,39,51,52,41,43,40,41,41,43,46,48",
+                        "endOffsets": "95,135,187,240,282,326,367,409,451,495,542,591"
+                    }
+                },
+                {
+                    "source": "/Users/teste/Downloads/atividade-permissoes-mobile-viacep-v2/app/src/main/res/values/strings.xml",
+                    "from": {
+                        "startLines": "2,4,3,5,6,14,16,13,10,8,11,12,9,7,15",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,167,116,299,354,835,1133,772,594,476,652,720,528,410,1065",
+                        "endColumns": "60,131,50,54,55,229,142,62,57,51,67,51,65,65,67",
+                        "endOffsets": "111,294,162,349,405,1060,1271,830,647,523,715,767,589,471,1128"
+                    },
+                    "to": {
+                        "startLines": "14,15,16,17,18,19,20,21,22,23,24,25,26,27,28",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "596,657,789,840,895,951,1181,1324,1387,1445,1497,1565,1617,1683,1749",
+                        "endColumns": "60,131,50,54,55,229,142,62,57,51,67,51,65,65,67",
+                        "endOffsets": "652,784,835,890,946,1176,1319,1382,1440,1492,1560,1612,1678,1744,1812"
+                    }
+                }
+            ]
+        }
+    ]
+}

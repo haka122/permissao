@@ -1,0 +1,65 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/teste/Downloads/atividade-permissoes-mobile-viacep-v2/app/src/main/AndroidManifest.xml:2:1-25:12
+INJECTED from /Users/teste/Downloads/atividade-permissoes-mobile-viacep-v2/app/src/main/AndroidManifest.xml:2:1-25:12
+INJECTED from /Users/teste/Downloads/atividade-permissoes-mobile-viacep-v2/app/src/main/AndroidManifest.xml:2:1-25:12
+INJECTED from /Users/teste/Downloads/atividade-permissoes-mobile-viacep-v2/app/src/main/AndroidManifest.xml:2:1-25:12
+	package
+		INJECTED from /Users/teste/Downloads/atividade-permissoes-mobile-viacep-v2/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/teste/Downloads/atividade-permissoes-mobile-viacep-v2/app/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /Users/teste/Downloads/atividade-permissoes-mobile-viacep-v2/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/teste/Downloads/atividade-permissoes-mobile-viacep-v2/app/src/main/AndroidManifest.xml:2:11-69
+uses-permission#android.permission.INTERNET
+ADDED from /Users/teste/Downloads/atividade-permissoes-mobile-viacep-v2/app/src/main/AndroidManifest.xml:4:5-67
+	android:name
+		ADDED from /Users/teste/Downloads/atividade-permissoes-mobile-viacep-v2/app/src/main/AndroidManifest.xml:4:22-64
+uses-permission#android.permission.ACCESS_COARSE_LOCATION
+ADDED from /Users/teste/Downloads/atividade-permissoes-mobile-viacep-v2/app/src/main/AndroidManifest.xml:5:5-81
+	android:name
+		ADDED from /Users/teste/Downloads/atividade-permissoes-mobile-viacep-v2/app/src/main/AndroidManifest.xml:5:22-78
+uses-permission#android.permission.ACCESS_FINE_LOCATION
+ADDED from /Users/teste/Downloads/atividade-permissoes-mobile-viacep-v2/app/src/main/AndroidManifest.xml:6:5-79
+	android:name
+		ADDED from /Users/teste/Downloads/atividade-permissoes-mobile-viacep-v2/app/src/main/AndroidManifest.xml:6:22-76
+application
+ADDED from /Users/teste/Downloads/atividade-permissoes-mobile-viacep-v2/app/src/main/AndroidManifest.xml:8:5-23:19
+INJECTED from /Users/teste/Downloads/atividade-permissoes-mobile-viacep-v2/app/src/main/AndroidManifest.xml:8:5-23:19
+	android:extractNativeLibs
+		INJECTED from /Users/teste/Downloads/atividade-permissoes-mobile-viacep-v2/app/src/main/AndroidManifest.xml
+	android:supportsRtl
+		ADDED from /Users/teste/Downloads/atividade-permissoes-mobile-viacep-v2/app/src/main/AndroidManifest.xml:12:9-35
+	android:label
+		ADDED from /Users/teste/Downloads/atividade-permissoes-mobile-viacep-v2/app/src/main/AndroidManifest.xml:11:9-41
+	android:icon
+		ADDED from /Users/teste/Downloads/atividade-permissoes-mobile-viacep-v2/app/src/main/AndroidManifest.xml:10:9-45
+	android:allowBackup
+		ADDED from /Users/teste/Downloads/atividade-permissoes-mobile-viacep-v2/app/src/main/AndroidManifest.xml:9:9-35
+	android:theme
+		ADDED from /Users/teste/Downloads/atividade-permissoes-mobile-viacep-v2/app/src/main/AndroidManifest.xml:13:9-49
+activity#com.example.consultaceppermissoes.MainActivity
+ADDED from /Users/teste/Downloads/atividade-permissoes-mobile-viacep-v2/app/src/main/AndroidManifest.xml:14:9-22:20
+	android:exported
+		ADDED from /Users/teste/Downloads/atividade-permissoes-mobile-viacep-v2/app/src/main/AndroidManifest.xml:16:13-36
+	android:name
+		ADDED from /Users/teste/Downloads/atividade-permissoes-mobile-viacep-v2/app/src/main/AndroidManifest.xml:15:13-41
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /Users/teste/Downloads/atividade-permissoes-mobile-viacep-v2/app/src/main/AndroidManifest.xml:17:13-21:29
+action#android.intent.action.MAIN
+ADDED from /Users/teste/Downloads/atividade-permissoes-mobile-viacep-v2/app/src/main/AndroidManifest.xml:18:17-69
+	android:name
+		ADDED from /Users/teste/Downloads/atividade-permissoes-mobile-viacep-v2/app/src/main/AndroidManifest.xml:18:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/teste/Downloads/atividade-permissoes-mobile-viacep-v2/app/src/main/AndroidManifest.xml:20:17-77
+	android:name
+		ADDED from /Users/teste/Downloads/atividade-permissoes-mobile-viacep-v2/app/src/main/AndroidManifest.xml:20:27-74
+uses-sdk
+INJECTED from /Users/teste/Downloads/atividade-permissoes-mobile-viacep-v2/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/teste/Downloads/atividade-permissoes-mobile-viacep-v2/app/src/main/AndroidManifest.xml
+INJECTED from /Users/teste/Downloads/atividade-permissoes-mobile-viacep-v2/app/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /Users/teste/Downloads/atividade-permissoes-mobile-viacep-v2/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/teste/Downloads/atividade-permissoes-mobile-viacep-v2/app/src/main/AndroidManifest.xml

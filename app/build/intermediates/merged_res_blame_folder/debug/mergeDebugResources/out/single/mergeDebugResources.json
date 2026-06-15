@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "com.example.consultaceppermissoes.app-debug-3:/drawable_result_background.xml.flat",
+        "source": "com.example.consultaceppermissoes.app-main-5:/drawable/result_background.xml"
+    },
+    {
+        "merged": "com.example.consultaceppermissoes.app-debug-3:/drawable_ic_launcher.xml.flat",
+        "source": "com.example.consultaceppermissoes.app-main-5:/drawable/ic_launcher.xml"
+    },
+    {
+        "merged": "com.example.consultaceppermissoes.app-debug-3:/drawable_permission_background.xml.flat",
+        "source": "com.example.consultaceppermissoes.app-main-5:/drawable/permission_background.xml"
+    },
+    {
+        "merged": "com.example.consultaceppermissoes.app-debug-3:/layout_activity_main.xml.flat",
+        "source": "com.example.consultaceppermissoes.app-main-5:/layout/activity_main.xml"
+    },
+    {
+        "merged": "com.example.consultaceppermissoes.app-debug-3:/drawable_input_background.xml.flat",
+        "source": "com.example.consultaceppermissoes.app-main-5:/drawable/input_background.xml"
+    }
+]

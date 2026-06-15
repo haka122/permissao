@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="background">#F5F7FB</color>
+    <color name="surface">#FFFFFF</color>
+    <color name="primary">#1E6B5C</color>
+    <color name="secondary">#4058A8</color>
+    <color name="text_primary">#17201E</color>
+    <color name="text_secondary">#52605C</color>
+    <color name="text_hint">#7B8783</color>
+    <color name="stroke">#D8E0DD</color>
+    <color name="success">#1E6B5C</color>
+    <color name="error">#B3261E</color>
+    <color name="permission_surface">#EEF2FF</color>
+    <color name="permission_stroke">#C8D1F5</color>
+</resources>

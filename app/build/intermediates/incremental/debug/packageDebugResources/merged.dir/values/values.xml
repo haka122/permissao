@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="background">#F5F7FB</color>
+    <color name="error">#B3261E</color>
+    <color name="permission_stroke">#C8D1F5</color>
+    <color name="permission_surface">#EEF2FF</color>
+    <color name="primary">#1E6B5C</color>
+    <color name="secondary">#4058A8</color>
+    <color name="stroke">#D8E0DD</color>
+    <color name="success">#1E6B5C</color>
+    <color name="surface">#FFFFFF</color>
+    <color name="text_hint">#7B8783</color>
+    <color name="text_primary">#17201E</color>
+    <color name="text_secondary">#52605C</color>
+    <string name="app_name">Consulta CEP Permissões</string>
+    <string name="app_subtitle">Consulte um endereço pela API pública ViaCEP e teste uma permissão Android de localização.</string>
+    <string name="app_title">Consulta CEP</string>
+    <string name="cep_hint">Exemplo: 01001000</string>
+    <string name="consultar_cep">Consultar CEP</string>
+    <string name="permissao_descricao">Use sua localização para registrar sua posição durante a consulta. O Android pode oferecer localização aproximada ou precisa, e a consulta de CEP continua funcionando se você negar.</string>
+    <string name="permissao_feedback_inicial">Toque no botão para testar as permissões ACCESS_FINE_LOCATION e ACCESS_COARSE_LOCATION.</string>
+    <string name="permissao_titulo">Permissão Android</string>
+    <string name="resultado_bairro">Bairro: %1$s</string>
+    <string name="resultado_cep">CEP: %1$s</string>
+    <string name="resultado_cidade">Cidade/UF: %1$s - %2$s</string>
+    <string name="resultado_ddd">DDD: %1$s</string>
+    <string name="resultado_logradouro">Logradouro: %1$s</string>
+    <string name="resultado_titulo">Resultado encontrado</string>
+    <string name="usar_localizacao">Usar minha localização</string>
+    <style name="ResultText">
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:layout_marginTop">12dp</item>
+        <item name="android:textColor">@color/text_secondary</item>
+        <item name="android:textSize">16sp</item>
+    </style>
+    <style name="Theme.ConsultaCep" parent="@android:style/Theme.Material.Light.NoActionBar">
+        <item name="android:fontFamily">sans</item>
+        <item name="android:windowLightStatusBar">true</item>
+        <item name="android:statusBarColor">@color/background</item>
+        <item name="android:navigationBarColor">@color/background</item>
+        <item name="android:colorAccent">@color/primary</item>
+    </style>
+</resources>

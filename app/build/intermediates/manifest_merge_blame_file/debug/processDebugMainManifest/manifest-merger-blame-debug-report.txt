@@ -1,0 +1,59 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.example.consultaceppermissoes"
+4    android:versionCode="1"
+5    android:versionName="1.0" >
+6
+7    <uses-sdk
+7-->INJECTED
+8        android:minSdkVersion="23"
+8-->INJECTED
+9        android:targetSdkVersion="35" />
+9-->INJECTED
+10
+11    <uses-permission android:name="android.permission.INTERNET" />
+11-->/Users/teste/Downloads/atividade-permissoes-mobile-viacep-v2/app/src/main/AndroidManifest.xml:4:5-67
+11-->/Users/teste/Downloads/atividade-permissoes-mobile-viacep-v2/app/src/main/AndroidManifest.xml:4:22-64
+12    <uses-permission android:name="android.permission.ACCESS_COARSE_LOCATION" />
+12-->/Users/teste/Downloads/atividade-permissoes-mobile-viacep-v2/app/src/main/AndroidManifest.xml:5:5-81
+12-->/Users/teste/Downloads/atividade-permissoes-mobile-viacep-v2/app/src/main/AndroidManifest.xml:5:22-78
+13    <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION" />
+13-->/Users/teste/Downloads/atividade-permissoes-mobile-viacep-v2/app/src/main/AndroidManifest.xml:6:5-79
+13-->/Users/teste/Downloads/atividade-permissoes-mobile-viacep-v2/app/src/main/AndroidManifest.xml:6:22-76
+14
+15    <application
+15-->/Users/teste/Downloads/atividade-permissoes-mobile-viacep-v2/app/src/main/AndroidManifest.xml:8:5-23:19
+16        android:allowBackup="true"
+16-->/Users/teste/Downloads/atividade-permissoes-mobile-viacep-v2/app/src/main/AndroidManifest.xml:9:9-35
+17        android:debuggable="true"
+18        android:extractNativeLibs="false"
+18-->INJECTED
+19        android:icon="@drawable/ic_launcher"
+19-->/Users/teste/Downloads/atividade-permissoes-mobile-viacep-v2/app/src/main/AndroidManifest.xml:10:9-45
+20        android:label="@string/app_name"
+20-->/Users/teste/Downloads/atividade-permissoes-mobile-viacep-v2/app/src/main/AndroidManifest.xml:11:9-41
+21        android:supportsRtl="true"
+21-->/Users/teste/Downloads/atividade-permissoes-mobile-viacep-v2/app/src/main/AndroidManifest.xml:12:9-35
+22        android:testOnly="true"
+23        android:theme="@style/Theme.ConsultaCep" >
+23-->/Users/teste/Downloads/atividade-permissoes-mobile-viacep-v2/app/src/main/AndroidManifest.xml:13:9-49
+24        <activity
+24-->/Users/teste/Downloads/atividade-permissoes-mobile-viacep-v2/app/src/main/AndroidManifest.xml:14:9-22:20
+25            android:name="com.example.consultaceppermissoes.MainActivity"
+25-->/Users/teste/Downloads/atividade-permissoes-mobile-viacep-v2/app/src/main/AndroidManifest.xml:15:13-41
+26            android:exported="true" >
+26-->/Users/teste/Downloads/atividade-permissoes-mobile-viacep-v2/app/src/main/AndroidManifest.xml:16:13-36
+27            <intent-filter>
+27-->/Users/teste/Downloads/atividade-permissoes-mobile-viacep-v2/app/src/main/AndroidManifest.xml:17:13-21:29
+28                <action android:name="android.intent.action.MAIN" />
+28-->/Users/teste/Downloads/atividade-permissoes-mobile-viacep-v2/app/src/main/AndroidManifest.xml:18:17-69
+28-->/Users/teste/Downloads/atividade-permissoes-mobile-viacep-v2/app/src/main/AndroidManifest.xml:18:25-66
+29
+30                <category android:name="android.intent.category.LAUNCHER" />
+30-->/Users/teste/Downloads/atividade-permissoes-mobile-viacep-v2/app/src/main/AndroidManifest.xml:20:17-77
+30-->/Users/teste/Downloads/atividade-permissoes-mobile-viacep-v2/app/src/main/AndroidManifest.xml:20:27-74
+31            </intent-filter>
+32        </activity>
+33    </application>
+34
+35</manifest>
