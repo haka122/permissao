@@ -88,10 +88,10 @@ App Android que consulta endereços pela API pública ViaCEP e demonstra o uso d
 ![Permissão](screenshots/permissao.png)
 
 ### Diálogo de Localização
-![Diálogo](screenshots/permissao_2_.png)
+![Diálogo](screenshots/permissao%202%20.png)
 
 ### Localização Obtida
-![Localização](screenshots/tela_inicial.png)
+![Localização](screenshots/tela%20inicial.png)
 
 ### Resultado da Consulta
 ![Consulta](screenshots/consulta.png)
