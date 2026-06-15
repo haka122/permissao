@@ -74,3 +74,24 @@ Sugestões:
 ## Autor
 Nome do aluno.
 # Igor mazorque
+
+# Consulta CEP - Permissões Android
+
+App Android que consulta endereços pela API pública ViaCEP e demonstra o uso de permissões de localização do Android.
+
+## Telas do App
+
+### Tela Inicial
+![Tela Inicial](screenshots/inicial.png)
+
+### Solicitação de Permissão
+![Permissão](screenshots/permissao.png)
+
+### Diálogo de Localização
+![Diálogo](screenshots/permissao_2_.png)
+
+### Localização Obtida
+![Localização](screenshots/tela_inicial.png)
+
+### Resultado da Consulta
+![Consulta](screenshots/consulta.png)
